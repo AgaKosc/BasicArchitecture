@@ -1,0 +1,10 @@
+__pycache__/
+/.idea
+*.exe
+/Reports
+F2tests.py
+Tests/JTestFile.py
+Tests/JTestSet.py
+test.bat
+*.xml
+*.log
